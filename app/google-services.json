@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "654596078485",
+    "firebase_url": "https://android-fc984-default-rtdb.firebaseio.com",
+    "project_id": "android-fc984",
+    "storage_bucket": "android-fc984.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654596078485:android:960dd24d64aec1e367949c",
+        "android_client_info": {
+          "package_name": "com.example.finalsuquib"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654596078485-eiqivogf71n8kf57kjb0sfrbp2ss41up.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6H_EfrJv4FWvdFFvjLOc4h2Kkt7gwKQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654596078485-eiqivogf71n8kf57kjb0sfrbp2ss41up.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
